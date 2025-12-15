@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Joshi</h1>
-<h3 align="center">I am a Computer Engineering graduate (2021-2025) from Pokhara University with a CGPA of 3.35/4. I have a strong foundation in software design, systems architecture, and data structures. Currently, I am focused on transitioning into a professional Full Stack Developer role, building dynamic web applications using the MERN stack.</h3>
+<h3 align="center">I am a Computer Engineering graduate (2021-2025) from Pokhara University . I have a strong foundation in software design, systems architecture, and data structures. Currently, I am focused on transitioning into a professional Full Stack Developer role, building dynamic web applications using the MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant010j&label=Profile%20views&color=0e75b6&style=flat" alt="hemant010j" /> </p>
 
