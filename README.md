@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **ReaAdvanced Backend Architecture & Performance Optimizationct.js, Node.js, and System Design**
 
-- 👨‍💻 All of my projects are available at [joshimeant.com.np](joshimeant.com.np)
+- 👨‍💻 All of my projects are available at [joshimeant.com.np](joshihemant.com.np)
 
 - 💬 Ask me about **React.js,Git & GitHub**
 
